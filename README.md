@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Breaking Chains 0x5157 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Want to move away from those toxic conversations? Here's a new track for you.
+It is an attempt to combine dance vocal and video making background music.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/17_Breaking-Chains-0x5157.mp3
+  Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
+Access: 2025-11-06 12:01:47.161541243 +0800
+Modify: 2025-11-06 11:59:56.301004767 +0800
+Change: 2025-11-06 11:59:56.301004767 +0800
+ Birth: 2025-07-20 11:08:26.723961851 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-06
+On YouTube since : 2026-08-08
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=k0jfWdP6gg4)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Breaking Chains 0x5157
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-breaking-chains-0x5157
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
